@@ -1,2 +1,2 @@
-# gitpic
+# GitPic
 My private album
